@@ -36,3 +36,5 @@ fields:
   default: post
   config:
     required: true
+pages:
+- _posts/net-memory-management-101.md
