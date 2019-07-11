@@ -37,5 +37,5 @@ fields:
   config:
     required: true
 pages:
-- _posts/local-http-2-on-iis.md
+- _posts/2019-07-11-local-http-2-on-iis.md
 - _posts/net-memory-management-101.md
