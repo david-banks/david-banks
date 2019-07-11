@@ -6,7 +6,7 @@ layout: page
 menu:
   main:
     title: About
-    weight: 4
+    weight: 3
 
 ---
 I make computers do things on the internet using programming.
