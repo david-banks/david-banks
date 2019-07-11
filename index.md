@@ -13,9 +13,7 @@ sections:
   template: postsblock
   title: Recent Posts
   section_id: recent-posts
-  actions:
-  - label: View Blog
-    url: blog/index.html
+  actions: []
   component: posts_block.html
   num_posts_displayed: 4
 layout: home
